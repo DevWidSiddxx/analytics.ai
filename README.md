@@ -43,7 +43,7 @@ This project aims to **automate and streamline term sheet validation** using **O
 ├── 📄 architecture analytics ai.png
 ├── 📄 blockchainlogin.png
 ├── 📄 dashboard.png
-├── 📄 termsheet-validation-dashboard.html) 
+├── 📄 termsheet-validation-dashboard.html
 ```
 
 ---
