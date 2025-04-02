@@ -1,4 +1,4 @@
-# AI-Powered Term Sheet Validation System - Analytics.AI
+# AI-Powered Term Sheet Validation System - [Analytics.AI]
 
 ## 📌 Overview
 The **AI-Powered Term Sheet Validation System** automates the validation of term sheets in post-trade financial operations. It eliminates manual errors, reduces processing time, and ensures regulatory compliance using **AI-driven data extraction, validation techniques, and blockchain security**.
