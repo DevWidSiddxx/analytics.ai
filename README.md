@@ -36,18 +36,14 @@ This project aims to **automate and streamline term sheet validation** using **O
 
 ## 📂 Project Structure
 ```
-📦 term-sheet-validation  
-├── 📂 app  
-│   ├── 📂 components  
-│   │   ├── 📂 ui (Reusable UI components)  
-│   │   ├── 📂 hooks (Custom React hooks)  
-│   ├── 📂 styles (Global styles & animations)  
-│   ├── 📄 page.tsx (Main entry point)  
-├── 📂 public (Static assets)  
-├── 📂 lib (Utility functions)  
-├── 📄 package.json (Dependencies)  
-├── 📄 tailwind.config.ts (Tailwind CSS config)  
-├── 📄 next.config.mjs (Next.js configuration)  
+📂 analytics.ai
+├── 📄 Analytics.AI.pdf
+├── 📄 Blockchain Authentication.html
+├── 📄 README.md
+├── 📄 architecture analytics ai.png
+├── 📄 blockchainlogin.png
+├── 📄 dashboard.png
+├── 📄 termsheet-validation-dashboard.html) 
 ```
 
 ---
