@@ -20,7 +20,6 @@ This project aims to **automate and streamline term sheet validation** using **O
 - **Natural Language Processing (NLP)** – Processes unstructured data.
 - **Machine Learning (ML)** – Validates extracted data.
 - **PostgreSQL / MongoDB** – Database for storing term sheet data.
-- **REST API / GraphQL** – For backend integration.
 - **Hyperledger Fabric & Ethereum Smart Contracts** – Ensures secure and immutable validation.
 - **Solana Blockchain** – Provides decentralized ledger for transparency and security.
 - **FastAPI / Flask** – Backend service handling.
