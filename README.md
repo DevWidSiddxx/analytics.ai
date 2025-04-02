@@ -14,7 +14,7 @@ This project aims to **automate and streamline term sheet validation** using **O
 ---
 
 ## Technologies Used
-- **Next.js (React.js),HTML,CSS,JS** – Web-based interactive UI.
+- **Next.js (React.js),HTML,JS** – Web-based interactive UI.
 - **Tailwind CSS** – Modern UI styling and animations.
 - **Optical Character Recognition (OCR)** – Extracts text from scanned documents.
 - **Natural Language Processing (NLP)** – Processes unstructured data.
