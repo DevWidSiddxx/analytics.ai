@@ -24,7 +24,7 @@ This project aims to **automate and streamline term sheet validation** using **O
 - **Hyperledger Fabric & Ethereum Smart Contracts** – Ensures secure and immutable validation.
 - **Solana Blockchain** – Provides decentralized ledger for transparency and security.
 - **FastAPI / Flask** – Backend service handling.
-- **Apache Kafka** – Ensures real-time data processing.
+
 
 ---
 
